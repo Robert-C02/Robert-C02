@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+my Name is Robert and I am a Student at "FH Campus 02". I am studying Business Informatics.
+
+Best wishes!
+
 <!--
 **Robert-C02/Robert-C02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
